@@ -1,4 +1,4 @@
-# 🚀 Smart Payment Failure & Recovery Platform
+### Smart Payment Failure & Recovery Platform ###
 
 A premium, full-stack Fintech web application designed to simulate real-world payment failures, retry mechanisms, and transaction logging. Built with a modern tech stack to demonstrate senior-level backend business logic and high-end frontend UI/UX.
 
