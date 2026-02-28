@@ -1,0 +1,6 @@
+fintech_venv/
+node_modules/
+.env
+fintech.db
+*.log
+.DS_Store
