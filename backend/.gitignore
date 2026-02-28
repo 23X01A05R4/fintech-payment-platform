@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-*$py.class
-.pytest_cache/
-.env
-fintech.db
-venv/
-env/
-fintech_venv/
